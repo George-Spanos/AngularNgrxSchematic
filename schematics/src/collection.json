@@ -1,0 +1,10 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "schematics": {
+      "description": "Angular Domain-Model-Store-Shared Boilerplate",
+      "factory": "./index",
+      "schema": "./schema.json"
+    }
+  }
+}
